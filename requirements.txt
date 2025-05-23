@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pymongo
+redis
+langchain
+langchain-openai
+openai>=1.0.0
+tiktoken
+pydantic
+python-dotenv
+numpy
+pytest
+pytest-asyncio
